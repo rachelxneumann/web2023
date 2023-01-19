@@ -1,3 +1,20 @@
 body {
+  background-color: hotpink;
+}
 
+h2 {
+  color: gold;
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: -4px;
+  text-shadow: 2px 2px 5px lightblue;
+}
+
+img {
+  border: dotted lightblue 8px;
+  
+}
+
+img:hover {
+  border: dotted lightblue 12px;
 }
